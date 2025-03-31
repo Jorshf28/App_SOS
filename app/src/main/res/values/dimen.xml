@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- General margins and padding -->
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_normal">16dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="padding_normal">16dp</dimen>
+
+    <!-- Specific dimensions -->
+    <dimen name="header_image_size">80dp</dimen>
+    <dimen name="button_height">56dp</dimen>
+    <dimen name="preview_image_height">200dp</dimen>
+    <dimen name="card_corner_radius">16dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_elevation_small">2dp</dimen>
+</resources>

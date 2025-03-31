@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">App_SOS</string>
+    <string name="default_web_client_id">your_web_client_id_here</string>
+    <string name="image_preview">Texto de vista previa de imagen</string>
+    <string name="default_notification_channel_id">your_channel_id</string>
+    <string name="default_notification_channel_name">Channel Name</string>
+
+    <string name="welcome_message">Bienvenido a la App de Reportes</string>
+    <string name="register_user">Registrar Usuario</string>
+    <string name="register_report">Registrar Reporte</string>
+    <string name="view_map">Ver Mapa de Reportes</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_profile">Perfil</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="menu_title">Menu</string>
+
+    <string name="report_icon_description">Icono del reporte</string>
+    <string name="new_report">Nuevo Reporte</string>
+    <string name="report_details_subtitle">Completa los detalles de tu reporte</string>
+    <string name="full_name">Nombre completo</string>
+    <string name="location">Ubicación</string>
+    <string name="get_current_location">Obtener ubicación actual</string>
+    <string name="detailed_description">Descripción detallada</string>
+    <string name="multimedia_evidence">Evidencia multimedia</string>
+    <string name="gallery">Galería</string>
+    <string name="camera">Cámara</string>
+    <string name="video">Video</string>
+    <string name="preview_image_description">Vista previa de la imagen</string>
+    <string name="remove_image">Eliminar imagen</string>
+    <string name="send_report">Enviar reporte</string>
+    <string name="select_report_type">Selecciona un tipo de denuncia</string>
+
+
+    <!-- Terms and Conditions -->
+    <string name="terms_and_conditions">Términos y Condiciones de Uso de la Aplicación SOS&#10;
+
+Última actualización: 22 de septiembre de 2024&#10;&#10;
+
+**Bienvenido a la aplicación SOS ("Aplicación de Reportes")**. Al utilizar esta aplicación, aceptas los siguientes términos y condiciones. Si no estás de acuerdo, abstente de utilizar la aplicación.&#10;&#10;
+
+**1. Aceptación de los Términos**&#10;
+Al acceder y utilizar la Aplicación, aceptas cumplir con estos términos y condiciones, así como con todas las leyes y regulaciones aplicables.&#10;&#10;
+
+**2. Descripción de la Aplicación**&#10;
+La Aplicación permite reportar actos ilícitos y situaciones de emergencia de forma rápida y eficiente. Está diseñada exclusivamente para uso informativo y de asistencia en emergencias.&#10;&#10;
+
+**3. Uso de la Aplicación**&#10;
+3.1. Registro obligatorio para acceder a todas las funciones.&#10;
+3.2. Información precisa y actualizada es necesaria al momento del registro.&#10;
+3.3. No constituye un servicio de emergencia; contacta a las autoridades locales en casos críticos.&#10;&#10;
+
+**4. Responsabilidades del Usuario**&#10;
+4.1. El usuario es responsable de cualquier contenido enviado mediante la Aplicación.&#10;
+4.2. El reporte de información falsa puede resultar en la suspensión o eliminación de la cuenta.&#10;&#10;
+
+**5. Política de Privacidad**&#10;
+La recopilación y uso de datos personales se rige por nuestra [Política de Privacidad], parte integral de estos términos. Al utilizar la Aplicación, aceptas nuestra política.&#10;&#10;
+
+**6. Propiedad Intelectual**&#10;
+Todo contenido, diseño y funcionalidad son propiedad de la empresa desarrolladora, protegidos por leyes de propiedad intelectual. No está permitido copiar o modificar sin permiso previo por escrito.&#10;&#10;
+
+**7. Limitación de Responsabilidad**&#10;
+7.1. La Aplicación se ofrece "tal cual" y "según disponibilidad"; no garantizamos ausencia de errores.&#10;
+7.2. La empresa no se hace responsable por daños derivados del uso o imposibilidad de uso de la Aplicación.&#10;&#10;
+
+**8. Modificaciones de los Términos**&#10;
+Nos reservamos el derecho de modificar estos términos. Notificaremos cambios importantes mediante un aviso en la Aplicación o correo electrónico. El uso continuo implica aceptación de los nuevos términos.&#10;&#10;
+
+**9. Ley Aplicable**&#10;
+Estos términos se regirán por las leyes de Perú. Cualquier disputa será sometida a los tribunales de Lima.&#10;&#10;
+
+**10. Contacto**&#10;
+Para preguntas sobre estos términos, contáctanos en: jayalag@ucvvirtual.edu.pe&#10;
+
+    </string>
+</resources>

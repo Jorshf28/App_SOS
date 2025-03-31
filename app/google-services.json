@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "722348109272",
+    "firebase_url": "https://appsos-5e3c5-default-rtdb.firebaseio.com",
+    "project_id": "appsos-5e3c5",
+    "storage_bucket": "appsos-5e3c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722348109272:android:c23b2c44adc7c7db15d6ad",
+        "android_client_info": {
+          "package_name": "com.example.app_sos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFYfV3ur8YtEYMU9gBkF1Z1xV5pbSBVTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
